@@ -23,7 +23,7 @@ export default function AboutMe() {
           <p className="text-gray-300 mt-6 md:mt-4 text-sm md:text-base leading-relaxed">
             I’m a passionate web developer with experience in building responsive 
             and interactive web applications using modern technologies. Now I’m a student 
-            in a high school, but I’m looking for an internship to gain real-world experience 
+            at the university, but I’m looking for an internship to gain real-world experience 
             and contribute to exciting projects. I’m eager to learn and grow as a developer, 
             and I’m always open to new opportunities and challenges.
 

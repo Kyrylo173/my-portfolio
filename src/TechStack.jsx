@@ -32,6 +32,22 @@ export default function Stack()
               <img className="w-20 h-20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" />
                <span className="text-gray-300">HTML</span>
             </div>
+              <div className="flex flex-col items-center">
+              <img className="w-20 h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCr3K-s34luLfL0EzM_go2fhJF_qctUMVa_QGVVwe17g&s=10" alt="Next.js" />
+               <span className="text-gray-300">Next.js</span>
+            </div>
+            <div className="flex flex-col items-center">
+              <img className="w-20 h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIP9Np5Jpso7cSfocadT4fvkthe62zgUcD468LhJdmlg&s=10" alt="Node.js" />
+               <span className="text-gray-300">Node.js</span>
+            </div>
+            <div className="flex flex-col items-center">
+              <img className="w-20 h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZuniT0PUK--gjCAEUXg4i1Bm4YAAvdTc3fDM2rCicg&s=10" alt="C#" />
+               <span className="text-gray-300">C#</span>
+            </div>
+             <div className="flex flex-col items-center">
+              <img className="w-20 h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYqlsKzpsm3yXGrJnyZ3fd-R2mRkIzr7l48HVO9zRnQ&s=10" alt="ASP.NET" />
+               <span className="text-gray-300">ASP.NET</span>
+            </div>
          </div>
       </div>
    </div>
