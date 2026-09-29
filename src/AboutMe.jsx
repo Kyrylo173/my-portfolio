@@ -1,4 +1,4 @@
-import MyPhoto from './media/my-photo.jpg';
+import MyPhoto from './media/My-new-photo.jpeg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
@@ -64,7 +64,7 @@ export default function AboutMe() {
             <img
               src={MyPhoto}
               alt="My Photo"
-              className="w-50 h-45 rounded-xl select-none"
+              className="h-auto w-48 rounded-2xl select-none"
             />
           </div>
         </div>
@@ -73,7 +73,7 @@ export default function AboutMe() {
           <img
             src={MyPhoto}
             alt="My Photo"
-            className="w-90 h-90 rounded-xl "
+            className="h-auto w-64 rounded-2xl"
           />
         </div>
     </div>
