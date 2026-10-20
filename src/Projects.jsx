@@ -14,7 +14,7 @@ export default function FeaturedProjects() {
             role: "Sole Full-Stack Developer",
             description: "A full-featured music streaming web platform with real-time audio playback, interactive playlists, dynamic QR-code search, and integrated Stripe subscriptions.",
             image: yumiMusicImg,
-            link: "https://yumi-music.space",
+            link: "#",
             github: "https://github.com/Kyrylo173/musical-app",
             stack: ["React", "Node.js", "Express", "NoSQL", "Tailwind CSS", "Stripe", "Framer Motion", "JavaScript"]
         },
@@ -23,16 +23,16 @@ export default function FeaturedProjects() {
             role: "Sole Full-Stack Developer",
             description: "An e-commerce ecosystem for YUMI Music merchandise featuring JWT authentication, state-managed shopping cart, and secure Stripe checkout integration.",
             image: yumiShopImg,
-            link: "https://yumi-shop.store",
+            link: "#",
             github: "https://github.com/Kyrylo173/yumi-shop",
-            stack: ["React 18", "TypeScript", "Node.js", "Express", "Tailwind CSS", "Stripe"]
+            stack: ["React", "TypeScript", "Node.js", "Express", "Tailwind CSS", "Stripe"]
         },
         {
             title: "Landing Page for YUMI for Developers",
             role: "Frontend Developer & Designer",
             description: "Modern landing page for the YUMI developer extension. Promotes coding time tracking features and automatic programming language detection.",
             image: yumiDevImg,
-            link: "https://yumi-music.space/yumi-extension",
+            link: "#",
             github: "#",
             stack: ["React", "Tailwind CSS", "Framer Motion", "JavaScript"]
         },
@@ -43,7 +43,7 @@ export default function FeaturedProjects() {
             image: yumiCompanyImg,
             link: "#",
             github: "https://github.com/Kyrylo173/my-course-work",
-            stack: ["React 18", "TypeScript", "Tailwind CSS", "Node.js", "Firebase"]
+            stack: ["React", "TypeScript", "Tailwind CSS", "Node.js", "Firebase"]
         }
     ];
 
